@@ -9,4 +9,9 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
+    - text: "Projects"
+      menu: 
+        -  text: "Transportation Study"
+           href: transportation.html
+        
 output: distill::distill_article
