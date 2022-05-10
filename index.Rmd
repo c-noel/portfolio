@@ -1,20 +1,19 @@
 ---
-title: "Tobi Burns"
-image: "tobi.jpg"
+title: "Carson Noel"
+image: "portfolio.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+    url: "https://www.linkedin.com/in/carson-noel-893580130/"
   - label: GitHub
     url: "https://github.com/"
   - label: Email
-    url: "mailto:email@email.com"
+    url: "mailto:carson.noel123@gmail.com"
 output:
-  postcards::jolla
+  postcards::trestles
 site: distill::distill_website
 ---
  
-I am a classically trained data scientist living in the San Francisco Bay Area. 
-Currently I work on the Oculus team at Facebook. I love talking about baseball, 
-true crime podcasts, and causal inference.
+I am a recent graduate from University of Colorado, where I studied sustainable
+planning and management in the Masters of the Environment program. I am currently in the 
+process of applying for jobs, but first I need to create a portfolio for my data analytics
+projects. If you're seeing this, this page is a work in progress! :)

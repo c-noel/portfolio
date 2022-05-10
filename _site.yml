@@ -1,7 +1,7 @@
 name: "portfolio"
 title: "My Website"
-description: |
-  My Website
+description:
+  "My Website"
 output_dir: "docs"
 navbar:
   right:
@@ -10,8 +10,7 @@ navbar:
     - text: "About"
       href: about.html
     - text: "Projects"
-      menu: 
-        -  text: "Transportation Study"
-           href: transportation.html
-        
+      href: projects.html
+    - text: "Resume"
+      href: portfolio.JPG
 output: distill::distill_article

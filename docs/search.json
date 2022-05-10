@@ -5,15 +5,15 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2022-05-02T14:26:15-06:00"
+      "contents": "\nThis is my about page\n\n\n\n\n",
+      "last_modified": "2022-05-09T22:12:53-06:00"
     },
     {
       "path": "index.html",
-      "title": "Tobi Burns",
+      "title": "Carson Noel",
       "author": [],
-      "contents": "\n\n          \n          \n          My Website\n          \n          \n          Home\n          About\n          \n          \n          Projects\n           \n          ▾\n          \n          \n          Transportation Study\n          \n          \n          ☰\n          \n          \n      \n        \n          \n            Tobi Burns\n          \n          \n            \n              I am a classically trained data scientist living in the San Francisco Bay Area. Currently I work on the Oculus team at Facebook. I love talking about baseball, true crime podcasts, and causal inference.\n            \n            \n              I am a classically trained data scientist living in the San Francisco Bay Area. Currently I work on the Oculus team at Facebook. I love talking about baseball, true crime podcasts, and causal inference.\n            \n          \n\n          \n            \n              \n                  \n                    \n                      LinkedIn\n                    \n                  \n                \n                                \n                  \n                    \n                      Twitter\n                    \n                  \n                \n                                \n                  \n                    \n                      GitHub\n                    \n                  \n                \n                                \n                  \n                    \n                      Email\n                    \n                  \n                \n                              \n          \n\n          \n            \n              \n                                \n                  \n                    LinkedIn\n                  \n                \n                                \n                  \n                    Twitter\n                  \n                \n                                \n                  \n                    GitHub\n                  \n                \n                                \n                  \n                    Email\n                  \n                \n                              \n            \n          \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2022-05-02T14:26:15-06:00"
+      "contents": "\n\n          \n          \n          My Website\n          \n          \n          Home\n          About\n          Projects\n          Resume\n          ☰\n          \n          \n      \n        \n          \n            \n              \n            \n              Carson Noel\n            \n            \n              \n                \n                    \n                      \n                        LinkedIn\n                      \n                    \n                  \n                                    \n                    \n                      \n                        GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                        Email\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            I am a recent graduate from University of Colorado, where I studied sustainable planning and management in the Masters of the Environment program. I am currently in the process of applying for jobs, but first I need to create a portfolio for my data analytics projects. If you’re seeing this, this page is a work in progress! :)\n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              Carson Noel\n            \n            \n              \n                \n                                    \n                    \n                      LinkedIn\n                    \n                  \n                                    \n                    \n                      GitHub\n                    \n                  \n                                    \n                    \n                      Email\n                    \n                  \n                                  \n              \n            \n            \n              I am a recent graduate from University of Colorado, where I studied sustainable planning and management in the Masters of the Environment program. I am currently in the process of applying for jobs, but first I need to create a portfolio for my data analytics projects. If you’re seeing this, this page is a work in progress! :)\n            \n        \n      \n    \n\n    \n    \n    ",
+      "last_modified": "2022-05-09T22:12:53-06:00"
     },
     {
       "path": "index2.html",
@@ -21,15 +21,15 @@
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-05-02T14:26:15-06:00"
+      "last_modified": "2022-05-09T22:12:53-06:00"
     },
     {
-      "path": "project.html",
-      "title": "About this site",
-      "description": "Some additional details about the website",
+      "path": "projects.html",
+      "title": "Projects",
+      "description": "These are projects that I have completed in the past year.",
       "author": [],
       "contents": "\n\n\n\n",
-      "last_modified": "2022-05-02T14:26:15-06:00"
+      "last_modified": "2022-05-09T22:12:53-06:00"
     }
   ],
   "collections": []
